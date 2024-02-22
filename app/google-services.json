@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717551759519",
+    "project_id": "mapa-vehiculo-b104e",
+    "storage_bucket": "mapa-vehiculo-b104e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717551759519:android:a4380a9807e1a20b0672aa",
+        "android_client_info": {
+          "package_name": "com.edgar.mapscar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBTSgGBl6uaSXt7bxn2FEhn7uAUGF9Ytc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
